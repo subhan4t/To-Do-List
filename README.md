@@ -125,9 +125,9 @@ li.completed {
 }
 ```
 
-main.js
+# JAVASCRIPT
 
-```
+```javascript
 
 let tasks = [];
 
