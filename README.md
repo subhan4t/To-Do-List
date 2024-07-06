@@ -210,6 +210,4 @@ loadTasks();
 
 ### OUTPUT:
 ```
-
-
-![Screenshot (117)](https://github.com/subhan4t/To-Do-List/assets/170702606/4a6a30d8-3739-49fd-a0c9-635adf09d01a)
+![Screenshot (117)](https://github.com/subhan4t/To-Do-List/assets/170702606/476653bf-0491-44cd-85c3-ffd02c5b19ab)
