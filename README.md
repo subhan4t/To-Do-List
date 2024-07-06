@@ -1,6 +1,5 @@
-index.html
-
-```
+"TO DO LIST"
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,12 +33,10 @@ index.html
     <script src="js/main.js"></script>
 </body>
 </html>
-
 ```
+# CSS EXAMPLE
 
-styles.css
-
-```
+```css
 body {
     font-family: Arial, sans-serif;
     background-color: #00bcd4;
@@ -211,7 +208,7 @@ document.getElementById('filterSelect').addEventListener('change', renderTasks);
 loadTasks();
 ```
 
-OUTPUT:
-```
+### OUTPUT:
+
 
 ![Screenshot (117)](https://github.com/subhan4t/To-Do-List/assets/170702606/4a6a30d8-3739-49fd-a0c9-635adf09d01a)
