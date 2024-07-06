@@ -209,5 +209,4 @@ loadTasks();
 ```
 
 ### OUTPUT:
-```
 ![Screenshot (117)](https://github.com/subhan4t/To-Do-List/assets/170702606/476653bf-0491-44cd-85c3-ffd02c5b19ab)
